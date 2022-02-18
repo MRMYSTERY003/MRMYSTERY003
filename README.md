@@ -17,16 +17,18 @@
 ## :sassy_man:  About me
 - :school: I am pursuing `Engineering` @ Sairam Engineering College
 - :trophy: An up comming `Youtuber`
-- :technologist: I love using Software as a solution for every `Problem`
-- :computer: I am a creative programmer mainly at `Sketching` and `Machine Learning`
+- :technologist: I love using Software as a solution for every `Problem`.
+- :computer: I am a creative programmer mainly at `Sketching` and `Machine Learning`.
 - :student: I’m currently learning: `Web development` and `Machine Learning`.
-- :thinking: I’m currently open for: `An Intern` or a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1gdiny_4f5TVbSdfyAQxokLMMrBTi054P/view?usp=sharing).
+- :thinking: I’m currently open for: `An Colabration` or a new `Project work`.
 - :nerd_face: Always `learning new things`
 
 <br>
 
 ## 🔥 Streak Stats
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=7oSkaaa&theme=algolia" alt="7oSkaaa" /></p>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MRMYSTERY003)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
 <br>
