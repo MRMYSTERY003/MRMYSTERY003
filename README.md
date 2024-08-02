@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm Sriram <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=ECE+Student;Creative+Programmer;Youtuber;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=ECE+Student;Creative+Programmer;Youtuber;Fast%20learner&center=true&width=500&height=50"></a>
 </p>
 
 
@@ -15,13 +15,13 @@
 -->
 
 ## :sassy_man:  About me
-- :school: I am pursuing `Engineering` @ Sairam Engineering College
-- :trophy: An up comming `Youtuber`
-- :technologist: I love using Software as a solution for every `Problem`.
-- :computer: I am a creative programmer mainly at `Sketching` and `Machine Learning`.
-- :student: I’m currently learning: `Web development` and `Machine Learning`.
-- :thinking: I’m currently open for: `An Colabration` or a new `Project work`.
-- :nerd_face: Always `learning new things`
+- :school: Currently a `Networking Engineering` @ Sify Technologies
+- :trophy: A creative `Youtuber`
+- :technologist: love to create Software as a solution for every `Problem`.
+- :computer: A creative programmer mainly at `Sketching` and `Deep Learning`.
+- :student: I’m currently learning: `Networking`, `Web development` and `Machine Learning`.
+- :thinking: I’m currently open for: `Any project Colabration` or a new `Project work`.
+- :nerd_face: Open to `learn new things`
 
 <br>
 
@@ -41,7 +41,7 @@
 	<a href="https://www.linkedin.com/in/sriram-codehub/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 	<a href="https://www.facebook.com/sriram.anand.180/"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white" alt="Facebook"/></a>
 	<a href="https://www.instagram.com/mr.m_y_s_t_e_r_y/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
-	<a href="https://www.youtube.com/c/CODEHUB03"><img src="https://img.shields.io/youtube/channel/subscribers/UCzOqZOhMa6NsdVtUbjt1xAw?style=plastic" alt="Snap Chat"/></a>
+	<a href="https://www.youtube.com/c/CODEHUB03"><img src="https://img.shields.io/youtube/channel/subscribers/UCzOqZOhMa6NsdVtUbjt1xAw?style=plastic" alt="YouTube"/></a>
 </p>
 
 
@@ -61,6 +61,9 @@
     <img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white">
   </a> 
   &emsp;
+  <a href="https://www.w3schools.com/cpp/" target="_blank"> 
+    <img alt="JS" src="https://img.shields.io/badge/JavaScript%20-%2300599C.svg?style=plastic&logo=javascript&logoColor=white">
+  </a> 
   &emsp;
    <a href="https://www.python.org" target="_blank">
     <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=plastic&logo=python&logoColor=white">
@@ -77,6 +80,10 @@
   <a href="https://www.w3schools.com/css/" target="_blank">
     <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=plastic&logo=css3&logoColor=white">
   </a> 
+  &emsp;
+  <a href="https://www.w3schools.com/react/" target="_blank">
+    <img alt="REACT" src="https://img.shields.io/badge/REACT%20-%231572B6.svg?style=plastic&logo=react&logoColor=white">
+  </a> 
 </p>
 
  ### 👉 Software & Tools
@@ -88,6 +95,10 @@
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=plastic&logo=stack-overflow&logoColor=white"></a>
   &emsp;
     <a href="#"><img alt="Geekf For Geeks" src="https://img.shields.io/badge/geeksforgeeks-%230F9D58.svg?style=plastic&logo=geeksforgeeks&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="Firebase" src="https://img.shields.io/badge/Firebase-%230F9D58.svg?style=plastic&logo=firebase&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="Youtube" src="https://img.shields.io/badge/Firebase-%230F9D58.svg?style=plastic&logo=youtube&logoColor=white"></a>
 </p>
 
  ### 👉 IDEs
@@ -120,16 +131,16 @@
   &nbsp;
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MRMYSTERY003&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Sriram's Stats" height="192px"/>
   <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  <!-- <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level. -->
   </p>
 
 ----
-
+<!--
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/MRMYSTERY003"><img alt="Sriram's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=MRMYSTERY003&custom_title=MYMYSTERY003's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/MRMYSTERY003"><img alt="Sriram's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=MRMYSTERY003&custom_title=MYMYSTERY003s%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
-
+-->
 
 <br/>
 
