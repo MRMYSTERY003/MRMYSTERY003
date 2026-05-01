@@ -1,6 +1,6 @@
-<h1 align="center">Hi , I'm Sriram <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hi , I'm Sriram Anandan<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=ECE+Student;Creative+Programmer;Youtuber;Fast%20learner&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Wireless+Network+Engineer;Automation+Engineer;AI+ML;RF+Systems;&center=true&width=500&height=50"></a>
 </p>
 
 
@@ -15,12 +15,12 @@
 -->
 
 ## :sassy_man:  About me
-- :school: Currently a `Networking Engineering` @ Sify Technologies
-- :trophy: A creative `Youtuber`
-- :technologist: love to create Software as a solution for every `Problem`.
-- :computer: A creative programmer mainly at `Sketching` and `Deep Learning`.
-- :student: I’m currently learning: `Networking`, `Web development` and `Machine Learning`.
-- :thinking: I’m currently open for: `Any project Colabration` or a new `Project work`.
+- 💼 `Research & Development Associate` @ Sify Technologies  
+- 📡 Specialized in **Outdoor Wireless (P2P/P2MP), RF Optimization & Troubleshooting** 
+- ⚙️ Building **Python-based Network Automation tools** for large-scale systems  
+- 🤖 Working on **AI/ML for Network Optimization (Throughput Estimation, Spectrum Forecasting)**  
+- 🌐 Experienced in **SNMP, NMS, Bulk Device Management (100–80K+ devices)**  
+- 🧠 Passionate about combining **Networking + Automation + AI**  
 - :nerd_face: Open to `learn new things`
 
 <br>
@@ -118,21 +118,6 @@
 </p>
 
 <br/>
-
-## 📊 Github Stats
-
-
-
-  <summary><b>💻 GitHub Profile Stats</b></summary>
-  <br/>
-  <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Sriram's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MRMYSTERY003&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
-<br/>
-  &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MRMYSTERY003&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Sriram's Stats" height="192px"/>
-  <br/>
-  <!-- <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level. -->
-  </p>
 
 ----
 <!--
